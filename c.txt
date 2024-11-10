@@ -1,1 +1,4 @@
 sudo rm /usr/lib/python3.11/EXTERNALLY-MANAGED
+
+
+wget https://www.piwheels.org/simple/speechrecognition/SpeechRecognition-3.11.0-py2.py3-none-any.whl#sha256=2c3c0249dc4508f17533a8ad74f8599b6b06f8b7598a17c62038feb6eef5c8ca:
